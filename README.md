@@ -1,2 +1,11 @@
-# Online-music-acquisition-and-analysis
-Online music acquisition and analysis based on Python
+# 基于Python的音乐平台数据爬取及分析
+
+## 简介：爬取音乐平台上的数据，对数据进行处理分析可视化
+## 技术栈
+Python
+## 代码片段
+
+## 成果展示
+
+
+
